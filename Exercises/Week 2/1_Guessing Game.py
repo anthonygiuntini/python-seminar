@@ -3,7 +3,7 @@
 # it should guide the user by indicating if the number was too high or too low
 # until the user gets the number right, or the number of guesses has run out
 
-# For loops, if statements, libraries
+# while loops, if statements, libraries
 
 #what you will need
 import random # import the random library -> for dealing with random numbers

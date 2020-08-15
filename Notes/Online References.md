@@ -11,10 +11,12 @@ Invent with python - online book for learning python: http://inventwithpython.co
 
 Stack Overflow - Q/A site for programmers - has many useful answers: https://stackoverflow.com/
 
-## From Class
+## Additions
 
 ### Week 1:
 List of built-in functions: https://docs.python.org/3/library/functions.html
 
+### Week 2:
+Useful reference: https://www.w3schools.com/python/python_lists.asp
 
 
